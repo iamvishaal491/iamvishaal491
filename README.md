@@ -1,20 +1,4 @@
 ## Hi there 👋
-## 🚀 3D GitHub Contribution Visualizer
-
-[![View 3D Contributions](https://img.shields.io/badge/View_Interactive_3D-Contribution_Visualizer-22c55e?style=for-the-badge&logo=threedotjs&logoColor=white)](https://3d-contributions-app.vercel.app/?username=iamvishaal491)
-
-> Click above to explore my interactive 3D GitHub contribution calendar  
-> Includes Classic, Isometric, and Skyline themes
-<div align="center">
-
-## 🧊 3D Contribution Calendar
-
-![Isometric Calendar](./isometric.png)
-
-[![View Interactive 3D](https://img.shields.io/badge/View_Interactive_3D-Experience-22c55e?style=for-the-badge&logo=threedotjs&logoColor=white)](https://3d-contributions-app.vercel.app/?username=iamvishaal491)
-
-</div>
-<div align="center">
 
 ## 🧊 3D Contribution Calendar
 

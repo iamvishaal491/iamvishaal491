@@ -13,8 +13,6 @@ Learning. Building. Repeating.
 
 ### Contribution Calendar
 
-<br>
-
 <a href="https://3d-contributions-app.vercel.app/?username=iamvishaal491">
   <!-- Increased visibility and clarity for the 3D grid -->
   <img src="https://raw.githubusercontent.com/iamvishaal491/3d-contributions-app/main/output/isometric-calendar.svg" width="95%" />
@@ -27,8 +25,6 @@ Learning. Building. Repeating.
 <td width="50%" valign="top">
 
 ### Tech Stack
-
-<br>
 
 #### 🧠 AI / Data / ML  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)

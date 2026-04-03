@@ -8,15 +8,18 @@
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" align="center">
 
 ### 🧊 Contribution Calendar
 
-<img src="https://raw.githubusercontent.com/iamvishaal491/3d-contributions-app/main/output/isometric-calendar.svg" />
+<img src="https://raw.githubusercontent.com/iamvishaal491/3d-contributions-app/main/output/isometric-calendar.svg" width="90%" />
 
-<br><br>
+<br>
 
-[![Launch 3D](https://img.shields.io/badge/Launch_Interactive_3D_Experience-Click_Here-22c55e?style=for-the-badge&logo=threedotjs&logoColor=white)](https://3d-contributions-app.vercel.app/?username=iamvishaal491)
+<a href="https://3d-contributions-app.vercel.app/?username=iamvishaal491">
+  <img src="https://img.shields.io/badge/Go_3D-black?style=flat&logo=none&logoColor=white" />
+</a>
 
 </td>
 
@@ -51,5 +54,6 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
 </td>
+
 </tr>
 </table>

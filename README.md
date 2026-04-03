@@ -14,7 +14,6 @@
   </a>
 </div>
 
-> A fully interactive 3D GitHub contribution visualizer with Classic, Isometric, and Skyline modes
 
 ---
 

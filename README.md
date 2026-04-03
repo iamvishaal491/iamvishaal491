@@ -4,10 +4,6 @@
 🧠 Currently exploring AI/ML, system design, and 3D visualization  
 ⚡ Always ready to take on challenging projects
 
----
-
-## 🧊 3D Contribution Calendar
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/iamvishaal491/3d-contributions-app/main/output/isometric-calendar.svg" alt="3D Isometric Contribution Calendar" width="80%" />
   
@@ -66,14 +62,3 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
 ---
-
-
-## 🌐 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/vishaal-ramesh  
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=iamvishaal491&icon=0&color=0" />
-</p>

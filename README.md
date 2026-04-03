@@ -22,18 +22,6 @@
 
 ---
 
-## 🚀 Featured Project
-
-### 🔹 3D GitHub Contribution Visualizer
-- Real-time GitHub contribution rendering  
-- Multiple 3D modes (Classic, Isometric, Skyline City)  
-- Built using Three.js + WebGL  
-- Fully interactive (rotate, zoom, switch themes)  
-
-👉 [Try it live](https://3d-contributions-app.vercel.app/?username=iamvishaal491)
-
----
-
 ## 🧠 About Me
 
 - 🎓 Computer Science student (AI & ML specialization)  
@@ -79,30 +67,6 @@
 
 ---
 
-### 🎨 Other
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamvishaal491&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=iamvishaal491&theme=tokyonight&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvishaal491&theme=tokyonight&layout=compact" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamvishaal491&theme=dark&margin-w=10" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 

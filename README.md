@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Vishaal
 
-🚀 I build interactive systems and visually engaging tech projects  
-🧠 Currently exploring AI/ML, system design, and 3D visualization  
-⚡ Always ready to take on challenging projects  
+Into AI, systems, and building things that actually look and feel cool.  
+Learning. Building. Repeating. 
+⚡ Always ready to take on whatever projects thrown at me  
 
 <br>
 

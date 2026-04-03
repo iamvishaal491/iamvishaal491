@@ -1,14 +1,10 @@
 ## Hi there 👋
 ## 🚀 3D GitHub Contribution Visualizer
 
-### 🎮 Classic 3D
-[![Classic](./classic.png)](https://your-app.vercel.app/?username=iamvishaal491&theme=classic)
+[![View 3D Contributions](https://img.shields.io/badge/View_Interactive_3D-Contribution_Visualizer-22c55e?style=for-the-badge&logo=threedotjs&logoColor=white)](https://3d-contributions-app.vercel.app/?username=iamvishaal491)
 
-### 🧱 Isometric
-[![Isometric](./isometric.png)](https://your-app.vercel.app/?username=iamvishaal491&theme=isometric)
-
-### 🌆 Skyline City
-[![Skyline](./skyline.png)](https://your-app.vercel.app/?username=iamvishaal491&theme=skyline)
+> Click above to explore my interactive 3D GitHub contribution calendar  
+> Includes Classic, Isometric, and Skyline themes
 <!--
 **iamvishaal491/iamvishaal491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

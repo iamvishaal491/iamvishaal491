@@ -6,12 +6,12 @@
 
 <br>
 
-<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<table width="50%" cellspacing="0" cellpadding="0" border="0">
 <tr>
 
 <td width="50%" align="center" valign="top">
 
-### 🧊 Contribution Calendar
+### Contribution Calendar
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <td width="50%" valign="top">
 
-### 🧊 Tech Stack
+### Tech Stack
 
 <br>
 
@@ -39,7 +39,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white?style=flat&logo=opencv&logoColor=white)
 
-<br>
 
 #### ⚙️ Backend / Tools  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -47,7 +46,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b?style=flat&logo=mongodb&logoColor=white)
 
-<br>
+
 
 #### 🧰 Dev & Cloud  
 ![Git](https://img.shields.io/badge/git-%23F05033?style=flat&logo=git&logoColor=white)

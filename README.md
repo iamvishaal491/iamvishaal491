@@ -22,13 +22,6 @@
 
 <br><br>
 
-<div align="center">
-  <a href="https://3d-contributions-app.vercel.app/?username=iamvishaal491">
-    <!-- Premium Interactive Experience Button -->
-    <img src="https://img.shields.io/badge/LAUNCH_INTERACTIVE_3D_EXPERIENCE-CLICK_HERE?style=for-the-badge&labelColor=111827&color=22c55e&logo=threedotjs&logoColor=white" />
-  </a>
-</div>
-
 </td>
 
 <td width="50%" valign="top">

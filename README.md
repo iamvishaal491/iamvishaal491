@@ -36,15 +36,11 @@ Learning. Building. Repeating.
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/opencv-%23white?style=for-the-badge&logo=opencv&logoColor=white"/>
 
-<br><br>
-
 <b style="font-size:15px;">⚙️ Backend / Tools</b><br>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/flask-%23000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
-<br><br>
 
 <b style="font-size:15px;">🧰 Dev & Cloud</b><br>
 <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/>

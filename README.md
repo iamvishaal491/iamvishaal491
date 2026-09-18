@@ -1,54 +1,107 @@
-## Hi there I'm Vishaal
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Vishaal R</h1>
 
-Into AI, systems, and building things that actually look and feel cool.  
-Learning. Building. Repeating.  
-Always ready to take on whatever projects thrown at me
-also click on the contribution calendar to see something interesting ;)
+<p align="center">
+  I like exploring different areas of tech, building things, and figuring out how they work.
+  <br>
+  <b>AI/ML · Software Development · Systems · Open Source</b>
+</p>
+
+<p align="center">
+  <i>Learning → Building → Breaking → Fixing → Repeat.</i>
+</p>
 
 <br>
 
-<table width="50%" cellspacing="0" cellpadding="0" border="0" style="line-height:1.2;">
-<tr>
-
-<td width="50%" align="center" valign="top" style="padding:0;">
-
-<h3 style="margin:6px 0;">Contribution Calendar</h3>
+## ⚙️ Tech Stack
 
 <a href="https://3d-contributions-app.vercel.app/?username=iamvishaal491">
-  <img 
-    src="https://raw.githubusercontent.com/iamvishaal491/3d-contributions-app/main/output/isometric-calendar.svg" 
-    width="92%" 
-    style="display:block; margin:auto;"
+  <img
+    align="right"
+    src="https://raw.githubusercontent.com/iamvishaal491/3d-contributions-app/main/output/isometric-calendar.svg"
+    width="380"
+    alt="3D Contribution Calendar"
   />
 </a>
 
-</td>
+### Languages
 
-<td width="50%" valign="top" style="padding:0;">
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="42" />
+</p>
 
-<h3 align="center" style="margin:6px 0;">Tech Stack</h3>
+### AI / Data
 
-<b style="font-size:15px;">🧠 AI / Data / ML</b><br>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/numpy-%23013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="42" />
+</p>
 
-<b style="font-size:15px;">⚙️ Backend / Tools</b><br>
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+### Backend / Database
 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="42" />
+</p>
 
+### Tools
 
-<b style="font-size:15px;">🧰 Dev & Cloud</b><br>
-<img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="42" />
+</p>
 
-</td>
+<br clear="right">
 
-</tr>
-</table>
+<p align="right">
+  <i>Click the calendar. There's something waiting there.</i>
+</p>
+
+<br>
+
+## 🧩 What I'm Working On
+
+- Building projects around **AI/ML and software development**
+- Improving my **DSA and problem-solving**
+- Exploring **open source and GitHub contributions**
+- Experimenting with different technologies instead of sticking to one stack
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=iamvishaal491&theme=transparent&hide_border=false&include_all_commits=false&count_private=false"
+    height="220"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://streak-stats.demolab.com/?user=iamvishaal491&theme=transparent&hide_border=false"
+    height="220"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br>
+
+<!-- Profile Views -->
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=iamvishaal491&label=Profile%20Views&color=00FFFF&style=flat-square"
+    alt="Profile Views"
+  />
+</p>
+
+<!-- Bottom GIF -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/iamvishaal491/iamvishaal491/main/ezgif.com-crop.gif"
+    width="100%"
+    alt="Bottom Banner"
+  />
+</p>

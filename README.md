@@ -96,10 +96,11 @@
 
 <br>
 
-<div align="center">
+<!-- Bottom GIF -->
+<p align="center">
   <img
-    src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif"
+    src="https://raw.githubusercontent.com/iamvishaal491/iamvishaal491/main/assets/bottom.gif"
     width="100%"
-    alt="Banner"
+    alt="Bottom Banner"
   />
-</div>
+</p>

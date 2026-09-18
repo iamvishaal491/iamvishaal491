@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Vishaal%20R&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Computer%20Science%20Undergrad&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamvishaal491&label=Profile%20Views&color=00FFFF&style=flat-square" alt="Profile Views"/>
-</p>
-
-<p align="center">
   I like exploring different areas of tech, building things, and figuring out how they work.
   <br>
   <b>AI/ML · Software Development · Systems · Open Source</b>
@@ -61,18 +57,26 @@
 
 <br>
 
-## 📈 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamvishaal491&show_icons=true&theme=nightowl&hide_border=true&border_radius=10&cache_seconds=7200"
+    src="https://github-readme-stats.shion.dev/api?username=iamvishaal491&theme=transparent&hide_border=false&include_all_commits=false&count_private=false"
     alt="GitHub Stats"
   />
+</p>
+
+<p align="center">
   <img
-    height="180em"
-    src="https://streak-stats.demolab.com/?user=iamvishaal491&theme=nightowl&hide_border=true&border_radius=10&cache_seconds=86400"
+    src="https://streak-stats.demolab.com/?user=iamvishaal491&theme=transparent&hide_border=false"
     alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=iamvishaal491&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
+    alt="Top Languages"
   />
 </p>
 
@@ -95,6 +99,14 @@
 </p>
 
 <br>
+
+<!-- Profile Views -->
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=iamvishaal491&label=Profile%20Views&color=00FFFF&style=flat-square"
+    alt="Profile Views"
+  />
+</p>
 
 <!-- Bottom GIF -->
 <p align="center">

@@ -1,9 +1,9 @@
 ## Hi there I'm Vishaal
 
-Into AI, systems, and building things that actually look and feel cool.  
-Learning. Building. Repeating.  
-Always ready to take on whatever projects thrown at me
-also click on the contribution calendar to see something interesting ;)
+I’m a CS student who enjoys messing around with different technologies and turning random ideas into working projects.
+Interested in **AI/ML, software development, open source, and pretty much anything that teaches me something new**.
+Still learning. Still building. Still breaking things.
+
 
 <br>
 

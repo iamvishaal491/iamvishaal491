@@ -99,7 +99,7 @@
 <!-- Bottom GIF -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/iamvishaal491/iamvishaal491/main/assets/bottom.gif"
+    src="https://raw.githubusercontent.com/iamvishaal491/iamvishaal491/reworking-stuff/ezgif.com-crop.gif"
     width="100%"
     alt="Bottom Banner"
   />
